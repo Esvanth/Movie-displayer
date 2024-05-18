@@ -1,1 +1,1 @@
-# Movie-displayer
+It's a simple movie recommender app
